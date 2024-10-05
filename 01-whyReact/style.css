@@ -1,0 +1,10 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+    align-items: center;
+}
+button img {
+    max-width: 40px;
+    max-height: 40px;
+}
